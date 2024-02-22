@@ -8,7 +8,7 @@ To contact me, drop an email at anubhavdhar@kgpian.iitkgp.ac.in. Do check out my
 
 Here is some Ascii Art for you to enjoy:
 
-PC Credits: [Sharannya Ghosh](https://github.com/noobsharannya)
+PC: [Sharannya Ghosh](https://github.com/noobsharannya)
 
 <details style = "font-size:3px"> <summary>Ascii Art</summary>
   <pre>
